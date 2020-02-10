@@ -10,9 +10,11 @@ tags:
     - Blog
 last_modified_at: 2020-02-10T08:06:00-05:00
 ---
+## 1. 첫번째 toc 
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 GitHub Blog 서비스의 이름은 Pages이다.
 
+## 2. 두번째 toc
 Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
 다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
 
