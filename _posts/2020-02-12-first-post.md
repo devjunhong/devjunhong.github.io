@@ -1,6 +1,6 @@
 ---
-title: "Starting a github.io blog"
-excerpt: "I decided to move to github.io instead of Wordpress"
+title: "Starting a Github.io blog"
+excerpt: "I decided to move to Github.io instead of Wordpress"
 toc: true
 toc_sticky: true 
 
