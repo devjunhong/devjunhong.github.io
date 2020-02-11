@@ -40,3 +40,10 @@ I welcome your bits of help. I think nothing can be built only by myself.
 * If you are a manager or a lead developer and want to talk to me in person, then you can give me an interview offer. 
 
 Here's a list of contribution examples to the owner and I guess there will be numerous ways to help each other. 
+
+## How do you make the blog name "Dance with Programming"? 
+I have nothing in my mind when I have to name my blog. And I try to create a nice name without long consideration since I know it's hard to name on everything. 
+
+This is not nice but that's a true story. After I name on my blog, I consider this. 
+
+I think programming is like dancing. In my mind, I can imagine that I can dance as [BTS](https://www.youtube.com/watch?v=CzvfbRbEjww) do. In the real world, I can't dance like them. It's an illusion. I sometimes do imagine just like in this way. Every day I face someone who looks better than me in programming. If I want to do, there's no short way. I should put a lot of effort and push myself. I'm going to share a story; long, patience, hard, and pointed intended practice and repetition to be better. 
