@@ -1,13 +1,42 @@
 ---
-title: "이 블로그 설명서"
+title: "About"
+toc: true
+toc_sticky: true 
 permalink: /about/
 layout: single
 ---
 
-## devinlife.github.io 블로그
+## What do I do for a living? 
+* Software Engineer and Machine Learning Engineer at [GenesisLab](http://www.genesislab.ai/#/)
+    * Apr. 2019. ~ Present. 
+* Software Engineer at [Milliman](http://kr.milliman.com/)
+    * Jan. 2017. ~ Apr. 2019. 
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+If you want to know more then please click [here](https://www.linkedin.com/in/devjunhong/). 
 
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+## What is your name? 
+
+My name is "Junhong Kim". I don't have an English name. When I took a first English lecture at university, the teacher said she couldn't understand why Koreans do need an English name. We have a Korean name already. Do I need a new English name? I think no. Famous Korean stars, in particular, Heung-min Son, Hyunjin Ryu, Joonho Bong, and Yuna Kim doesn't need their English name. I'm not a famous star but my name comes from my grandfather. I'm proud that he gave me a name. That's why I don't want to create an English name. 
+
+## Why am I write in English? 
+
+I'm a software engineer and machine learning engineer and I have a dream working with global friends. When I'm using English, I feel that I'm being more active, outgoing, and well express myself. I know there are plenty of benefits when I use Korean. This is my personal opinion but I feel like I have two kinds of personality; speaking Korean personality and speaking English personality.
+
+## What can I do? 
+* Write code and develop useful tools in Web, Windows, and Android.
+* Build a machine learning model and debugging it. 
+* A lecture session about my professional knowledge.
+* Write a simple tutorial.
+
+I have [Resume](https://drive.google.com/file/d/1Rswbh2AePIQTFZuL6wUOZ6O-nwocLh0n/view?usp=sharing), [Portfolio](https://docs.google.com/presentation/d/1c-aUKpOT_dNFsIb1vGjikRHjwygQDHHOBpiWjjEE064/edit?usp=sharing), and [LinkedIn profile](https://www.linkedin.com/in/devjunhong/).
+
+## A various ways that you can help the owner
+I welcome your bits of help. I think nothing can be built only by myself. 
+* Please leave me any comments or ideas for improving readability or contents. You can send me a mail directly to dev.junhong@gmail.com
+* The most **important** you can contribute to me is **your reaction**; please your replies in the posts. 
+* You can give me a critique of my resume, LinkedIn profile, and portfolios. 
+* If you share a relevant article to the post, then it's gonna be a great help too. 
+* Please don't donate me, but please click when you see ads. 
+* If you are a manager or a lead developer and want to talk to me in person, then you can give me an interview offer. 
+
+Here's a list of contribution examples to the owner and I guess there will be numerous ways to help each other. 
