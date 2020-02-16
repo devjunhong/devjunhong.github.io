@@ -8,7 +8,7 @@ categories:
     - Python
 tags:
     - Python
-last_modified_at: 2020-02-13T08:06:00-05:00
+last_modified_at: 2020-02-14T08:06:00-05:00
 ---
 
 In this post, I've learned what could be evaluated as False values in Python, short-circuit operation in logical operation, String formatting in Python. 
