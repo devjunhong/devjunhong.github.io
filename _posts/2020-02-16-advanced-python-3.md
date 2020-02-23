@@ -1,5 +1,5 @@
 ---
-title: "Advanced Python - 3"
+title: "Handy built in functions"
 excerpt: "Useful built in functions; any, all, min, transforms, and itertools."
 toc: true
 toc_sticky: true 

@@ -1,5 +1,5 @@
 ---
-title: "Advanced Python - 2"
+title: "False values, Logical operation and String format"
 excerpt: "False values, Logical operation, String formatting in Python."
 toc: true
 toc_sticky: true 

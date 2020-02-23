@@ -1,5 +1,5 @@
 ---
-title: "Advanced Python"
+title: "Why Python and PEP to keep the rule"
 excerpt: "I want to share what I learn from a python course."
 toc: true
 toc_sticky: true 
