@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2020-03-03T08:06:00-05:00
 ---
 
-I want to write thank you messages to Joe Marini and share [the course info](https://www.linkedin.com/learning/advanced-python/welcome). It's been a month ago when I first publish course-related articles and it's based on his brilliant work. I want to include all the links in the blog and give him a big thank you because I use many skills from lectures in my real world. When I try to create a log analyzer scripts I used the [Counter](https://devjunhong.github.io/python/advanced_python_5/) and it was a super easy task. Here is the list of lecture contents and I want to say thank you, Joe Marini, again. If you want to take the course, I'm sure that he introduces everything in super simple and short.
+I want to write thank you messages to Joe Marini and share [the course info](https://www.linkedin.com/learning/advanced-python/welcome). It's been a month ago when I first publish course-related articles and it's based on his brilliant work. I want to include all the links in the blog and give him a big thank you because I use many skills from lectures in my real world. When I try to create a log analyzer scripts I used the [Counter](https://devjunhong.github.io/python/advanced_python_5/#counters) and it was a super easy task. Here is the list of lecture contents and I want to say thank you, Joe Marini, again. If you want to take the course, I'm sure that he introduces everything in super simple and short.
 
 - [Why Python and PEP to keep the rule](https://devjunhong.github.io/python/advanced-python/)
 - [False values, Logical operation and String format](https://devjunhong.github.io/python/advanced-python-2/)
