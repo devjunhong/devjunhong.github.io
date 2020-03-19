@@ -19,7 +19,7 @@ last_modified_at: 2020-03-20T08:06:00-05:00
 | Compatible with browsable API                                         | Not compatible with the browsable API   |
 | DRF Router compatible                                                 | Cannot use DRF Router                   |
 
-Here are the official document for the [Viewset](https://www.django-rest-framework.org/api-guide/viewsets/) and the [APIView](https://www.django-rest-framework.org/api-guide/views/). In this post, we will take a look at how to implement a custom viewset. 
+Here are the official document for the [Viewset](https://www.django-rest-framework.org/api-guide/viewsets/) and the [APIView](https://www.django-rest-framework.org/api-guide/views/). In this post, we will take a look at [how to implement a custom viewset](https://github.com/devjunhong/django-polls-tutorial/commit/f4709b22f3d82d0c15e6ef0576b1516c8ae78476). 
 
 ## Snippet of code for custom viewset
 ```python
