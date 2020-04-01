@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Junhong Kim"
   avatar           : "/assets/images/teaser_300x300.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, my name is Junhong. I'm interested in full-stack and machine learning. Thank you."
+  bio              : "Hi, my name is Junhong. TLDR; Let's keep talking about programming in 3 minutes. I'm interested in full-stack and machine learning. Thank you."
   location         : "South Korea"
   email            :
   links:
