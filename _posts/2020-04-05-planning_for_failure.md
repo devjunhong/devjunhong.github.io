@@ -1,6 +1,6 @@
 ---
 title: "Planning for failure"
-excerpt: "How to make sure security for admin"
+excerpt: "Failure is inevitable, so how to tackle when it happens?"
 toc: true
 toc_sticky: true
 
