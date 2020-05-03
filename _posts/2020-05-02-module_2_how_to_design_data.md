@@ -82,6 +82,22 @@ In this example, we will take steps to build city name data. Since it is a name,
     (... cn)))
 ```
 
+#### Completed design data
+```
+;; CityName is String
+;; interp. the name of a city
+
+(define CN1 "Boston")
+(define CN2 "Vancouver")
+
+#;
+(define (fn-for-city-name cn)
+    (... cn)))
+
+;; Template rules used:
+;; - atomic non-distinct: Image
+```
+
 
 ### Tips 
 - '#;': This will comment out following open bracket and close bracket. So in the following example, the right next define statement will be commented out because of '#;'.
