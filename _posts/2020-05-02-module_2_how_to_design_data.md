@@ -99,6 +99,11 @@ In this example, we will take steps to build city name data. Since it is a name,
 ```
 
 
+### Combine design function and data 
+
+In the previous [post](https://devjunhong.github.io/how%20to%20code/module_1b_how_to_design_functions/), we've took look how to design a funciton. Since we work closely with data and function, we need to understand how to do both in terms of using design receipe. When we want to build a function that consumes non-primitive data, we can copy the template we've wrote in design receipe. 
+
+
 ### Tips 
 - '#;': This will comment out following open bracket and close bracket. So in the following example, the right next define statement will be commented out because of '#;'.
 ```
