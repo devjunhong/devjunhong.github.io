@@ -101,7 +101,63 @@ In this example, we will take steps to build city name data. Since it is a name,
 
 ### Combine design function and data 
 
-In the previous [post](https://devjunhong.github.io/how%20to%20code/module_1b_how_to_design_functions/), we've took look how to design a funciton. Since we work closely with data and function, we need to understand how to do both in terms of using design receipe. When we want to build a function that consumes non-primitive data, we can copy the template we've wrote in design receipe. 
+In the previous [post](https://devjunhong.github.io/how%20to%20code/module_1b_how_to_design_functions/), we take a look how to design a function. Since we work closely with data and function, we need to understand how to do both in terms of using design receipe. When we want to build a function that consumes non-primitive data, we can copy the template we've wrote in design receipe. 
+
+In addition, all the time designing a function and data is independently. It doesn't produce a side-effect when we change input or output forms of data consumed by a function.
+
+
+### Intervals
+Interval represents sequence of integers in a row. In the notation, the square bracket means including and round bracket means excluding. Let's make an example about intervals. 
+
+```
+[2, 4]
+; 2, 3, 4
+(1, 3]
+; 2, 3
+(3, 6)
+; 4, 5
+```
+
+Here is the design example of the interval about row seat number from 1 to 32. 
+```
+;; SeatNumber is Natural [1, 32]
+;; interp. the number of seats in the theater
+(define S1 1)   ; start
+(define S2 10)  ; middle
+(define S3 32)  ; end
+
+#;
+(define (fn-for-seatnumber sn)
+  (... sn))
+
+;; Template rules used:
+;; - atomic non-distinct: Natural [1, 32]
+```
+
+
+### Enumeration 
+Here is the full design receipe to use enumeration and it represents letter grade. 
+
+```
+;; Grade is one of:
+;;  - "A"
+;;  - "B"
+;;  - "C"
+;; interp. the grade of a score
+
+;; <examples are redundant for enumerations>
+ 
+#;
+(define (fn-for-grade s)
+  (cond [(string=? "A" s) (...)]
+        [(string=? "B" s) (...)]
+        [(string=? "C" s) (...)]))
+;; Template rules used:
+;;  - one of: 3 cases
+;;  - atomic distinct: "A"
+;;  - atomic distinct: "B"
+;;  - atomic distinct: "C"
+```
 
 
 ### Tips 
