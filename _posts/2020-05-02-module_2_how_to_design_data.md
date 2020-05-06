@@ -190,6 +190,27 @@ When we have different subclass type, then we can use the itemization instead of
 ;;  - atomic distinct: "complete"
 ```
 
+For the itemization, we can use 2 simplifying rules. 
+1. If a given subclass is the last subclass of its type, we can reduce the test to just the guard. 
+2. If all remaining subclasses are of the same type, then we can eliminate all of the guards. 
+
+Here is the guard to check type of data. 
+```
+(define (fn-for-tlight tl)
+    (cond   [(false? tl) (...)]
+            [(and (string? tl) (string=? "red")) (...)]   ; guard
+    ))
+```
+
+When we apply those rules, we can reduce this simple version of template.
+
+```
+(define (fn-for-tlight tl)
+    (cond   [(false? tl) (...)]
+            [(string=? "red") (...)]   ; guard
+    ))
+```
+
 ### Tips 
 - '#;': This will comment out following open bracket and close bracket. So in the following example, the right next define statement will be commented out because of '#;'.
 ```
