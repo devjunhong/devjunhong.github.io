@@ -3,7 +3,7 @@ title: "Module 2 - How to Design Data"
 excerpt: "Series of lecture notes, [edX] How to Code: Simple data"
 toc: true
 toc_sticky: true
-published: false
+published: true
 
 categories:
     - How to Code
