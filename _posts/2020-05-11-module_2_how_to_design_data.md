@@ -10,7 +10,7 @@ categories:
 tags:
     - How to Code
     - Design data
-last_modified_at: 2020-05-02T08:06:00-05:00
+last_modified_at: 2020-05-11T08:06:00-05:00
 ---
 
 ### Cond operator 
@@ -34,7 +34,7 @@ last_modified_at: 2020-05-02T08:06:00-05:00
           "square"
           "wide")))
 ```
-When we have more than 2 cases, then we can use the 'Cond' operator. The first one is simplified version of cond operator. Observing the simple one makes sense then the real example. [1] and [2] are the same function but with cond operator and if statement respectively. In the cond expression, each question must produce boolean value.
+When we have more than 2 cases, then we can use the 'Cond' operator. The first one is a simplified version of the cond operator. Observing the simple one makes sense to the real example. [1] and [2] are the same function but with the cond operator and if statement respectively. In the cond expression, each question must produce boolean value.
 
 
 ### Data definition
@@ -101,13 +101,13 @@ In this example, we will take steps to build city name data. Since it is a name,
 
 ### Combine design function and data 
 
-In the previous [post](https://devjunhong.github.io/how%20to%20code/module_1b_how_to_design_functions/), we take a look how to design a function. Since we work closely with data and function, we need to understand how to do both in terms of using design receipe. When we want to build a function that consumes non-primitive data, we can copy the template we've wrote in design receipe. 
+In the previous [post](https://devjunhong.github.io/how%20to%20code/module_1b_how_to_design_functions/), we take a look at how to design a function. Since we work closely with data and function, we need to understand how to do both in terms of using the design recipe. When we want to build a function that consumes non-primitive data, we can copy the template we've written in the design recipe. 
 
-In addition, all the time designing a function and data is independently. It doesn't produce a side-effect when we change input or output forms of data consumed by a function.
+Besides, all the time designing a function and data is independent. It doesn't produce a side-effect when we change input or output forms of data consumed by a function.
 
 
 ### Intervals
-Interval represents sequence of integers in a row. In the notation, the square bracket means including and round bracket means excluding. Let's make an example about intervals. 
+Interval represents a sequence of integers in a row. In the notation, the square bracket means including and round bracket means excluding. Let's make an example of intervals. 
 
 ```
 [2, 4]
@@ -136,7 +136,7 @@ Here is the design example of the interval about row seat number from 1 to 32.
 
 
 ### Enumeration 
-Here is the full design receipe to use enumeration and it represents letter grade. 
+Here is the full design recipe to use enumeration and it represents letter grade. 
 
 ```
 ;; Grade is one of:
@@ -161,7 +161,7 @@ Here is the full design receipe to use enumeration and it represents letter grad
 
 
 ### Itemization
-When we have different subclass type, then we can use the itemization instead of the enumeration. That's the one difference between the enumeration and itemization.
+When we have different subclass types, then we can use the itemization instead of the enumeration. That's the one difference between the enumeration and itemization.
 
 ```
 ;; Countdown is one of:
@@ -202,7 +202,7 @@ Here is the guard to check type of data.
     ))
 ```
 
-When we apply those rules, we can reduce this simple version of template.
+When we apply those rules, we can reduce this simple version of the template.
 
 ```
 (define (fn-for-tlight tl)
@@ -222,3 +222,7 @@ When we apply those rules, we can reduce this simple version of template.
           "square"
           "wide")))
 ```
+
+- Design is about starting with poorly formed problems and ending up with well-structure solutions
+
+- information -> data -> template -> function tests
