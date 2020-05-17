@@ -28,3 +28,14 @@ Using the big-bang function is the one of way to create interactive program. We 
 0 means the initial state. 'next-cat' is a function that produces a next state. 'render-cat' is a function that consumes the produced state by 'next-cat'. The below figure cleary represents how the big-bang function works. 
 
 ![big-bang function](/assets/images/big_bang_works.png)
+
+
+### How to design worlds
+Here, I guess right title will be how to design using the big-bang function. Anyway, I think it's important to follow the design receipe cause it shows cristal clear way to think like a programmer.
+
+
+#### Domain Analysis
+The first part is the domain analysis. By sketching 2 or 3 scenarios, we can observe how the interactive program works with inputs and outputs. According to the scenarios, we need to identify what're the constants and variables in the program. 
+
+#### Build actual program 
+The last part is building an actual program with how to design receipe for [function](https://devjunhong.github.io/how%20to%20code/module_1b_how_to_design_functions/) and [data](https://devjunhong.github.io/how%20to%20code/module_2_how_to_design_data/). Surprisingly, it does possible to focus on one thing at each step. In the lecture, it is possible to follow each specific elaborated step one by one. In addition, during the steps, it gives big advise about being easy to change for program is one of the most import properties. 
