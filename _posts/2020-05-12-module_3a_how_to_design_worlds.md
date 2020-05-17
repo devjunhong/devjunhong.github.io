@@ -39,3 +39,7 @@ The first part is the domain analysis. By sketching 2 or 3 scenarios, we can obs
 
 #### Build actual program 
 The last part is building an actual program with how to design receipe for [function](https://devjunhong.github.io/how%20to%20code/module_1b_how_to_design_functions/) and [data](https://devjunhong.github.io/how%20to%20code/module_2_how_to_design_data/). Surprisingly, it does possible to focus on one thing at each step. In the lecture, it is possible to follow each specific elaborated step one by one. In addition, during the steps, it gives big advise about being easy to change for program is one of the most import properties. 
+
+
+### Modification 
+A program that is used by people need to be well structured for updating issue. Clients always ask for better performance or new design. In terms of updating the software, try to stick with the idea; how to design worlds. 
