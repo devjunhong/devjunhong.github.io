@@ -4,6 +4,8 @@ excerpt: "I took a Udemy course"
 toc: true
 toc_sticky: true
 published: true
+header:
+  teaser: /assets/images/2020-12-17/success.png
 
 categories:
     - Coaching

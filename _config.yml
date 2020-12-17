@@ -24,7 +24,7 @@ description              : "Programming posts that I enjoy."
 url                      : "https://devjunhong.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/teaser_300x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/work.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -70,18 +70,21 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "Junhong0126"
 facebook:
-  username               :
+  username               : "junehong.kim.91"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/teaser_300x300.jpg" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/work.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/devjunhong/"
+    - "https://twitter.com/Junhong0126"
+    - "https://www.facebook.com/junehong.kim.91"
 
 # Analytics
 analytics:
@@ -94,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : "Junhong Kim"
-  avatar           : "/assets/images/teaser_300x300.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi, my name is Junhong Kim. I write that I want to understand and teach future me. I am a Software Engineer who can make software from an idea."
   location         : "South Korea"
   email            :
@@ -108,9 +111,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/devjunhong/"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://devjunhong.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -258,6 +258,7 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
       layout: single
       author_profile: true
       read_time: true
