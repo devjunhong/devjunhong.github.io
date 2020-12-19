@@ -9,9 +9,9 @@ header:
   og_image: /assets/images/2020-12/rustacean.png
 
 categories:
-    - Coaching
+    - Rust
 tags:
-    - Essay
+    - Rust
 last_modified_at: 2020-12-17T08:06:00-05:00
 ---
 
