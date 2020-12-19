@@ -4,7 +4,14 @@ toc: true
 toc_sticky: true 
 permalink: /about/
 layout: single
+header:
+  teaser: /assets/images/profile.jpeg
 ---
+
+## Summary 
+- [LinkedIn Profile](https://www.linkedin.com/in/devjunhong/)
+- [Portfolio](https://docs.google.com/presentation/d/e/2PACX-1vRXNou-qZr9Ooy_A_rUQeH64qKXPPu0W-E9x1-7uabjYQIwxy0iLMltVdBKVXNRNFrdQ4khyY4Yz-Sq/pub?start=false&loop=false&delayms=3000)
+- [Email](mailto:dev.junhong@gmail.com)
 
 ## What do I do for a living? 
 * Software Engineer and Machine Learning Engineer at [GenesisLab](http://www.genesislab.ai/#/)

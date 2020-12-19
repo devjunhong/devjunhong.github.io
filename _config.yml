@@ -98,8 +98,8 @@ analytics:
 author:
   name             : "Junhong Kim"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, my name is Junhong Kim. I write that I want to understand and teach future me. I am a Software Engineer who can make software from an idea."
-  location         : "South Korea"
+  bio              : "Warm-hearted Engineer loves; Python, Rust, React, and Pytorch."
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
