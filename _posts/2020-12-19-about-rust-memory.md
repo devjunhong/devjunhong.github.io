@@ -1,11 +1,12 @@
 ---
 title: "About Rust memory safety"
-excerpt: "I took a Udemy course"
+excerpt: "Memory safety in Rust, How does it works? and what will be guaranteed?"
 toc: true
 toc_sticky: true
 published: true
 header:
   teaser: /assets/images/2020-12/rustacean.png
+  image: /assets/images/2020-12/rustacean.png
   og_image: /assets/images/2020-12/rustacean.png
 
 categories:
