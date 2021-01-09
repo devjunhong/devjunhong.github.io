@@ -20,7 +20,7 @@ last_modified_at: 2021-01-09T08:06:00-05:00
 ---
 
 # Intro 
-I saw an interesting post in my favorite community [Dev](https://dev.to/). ["Do you track your achievements?"](https://dev.to/madza/do-you-track-your-achievements-529a) and I visited [Florin Pop's timeline page](https://www.florin-pop.com/timeline). It's a very cool way to track achievements. I think tracking achievements is a great idea. By using the timeline, it's so easy to check out what I'm doing. But, one pain point it's static. Not interesting for me, so I'm going to create the same one using [React](https://reactjs.org/). Ok, let me bring that into my blog. First, I need to figure out how to deploy React in the [GitHub pages](https://pages.github.com/).
+I saw an interesting post in my favorite community [Dev](https://dev.to/). ["Do you track your achievements?"](https://dev.to/madza/do-you-track-your-achievements-529a) and I visited [Florin Pop's timeline page](https://www.florin-pop.com/timeline). It's a very cool way to track achievements. I think tracking achievements is a great idea. By using the timeline, it's so easy to check out what I'm doing. But, one point to improve the timeline. I can give some effect to the timeline with [React](https://reactjs.org/). Ok, let me bring that into my blog. First, I need to figure out how to deploy React in the [GitHub pages](https://pages.github.com/).
 
 # Procedure
 ## Required 
