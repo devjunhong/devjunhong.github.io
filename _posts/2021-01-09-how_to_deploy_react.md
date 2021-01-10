@@ -51,13 +51,14 @@ If we can see the first example page by create-react-app package like this, it w
 ## Add timeline component
 We are going to use a timeline component to create our own. I found [this component](https://www.npmjs.com/package/react-vertical-timeline-component) is applicable in our case. Here is a [demo](https://stephane-monnot.github.io/react-vertical-timeline/#/demo-default-visible) of this component. Looks pretty good. Let's bring the component in our project. We need 2 packages to run it. 
 ```sh
-current working directory) path/to/test-timeline 
+# current working directory: path/to/test-timeline2 
 $ npm i react-vertical-timeline-component
 $ npm install @material-ui/icons
 ```
 The 'i' means 'install'. [[1]](#first) Let's update the code. Open the "test-timeline2/src/App.js" and update the code like below. 
 
 ```javascript 
+{% raw %}
 import logo from './logo.svg';
 import './App.css';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
@@ -93,6 +94,7 @@ function App() {
 }
 
 export default App;
+{% endraw %}
 ```
 
 Try to see the result. 
@@ -155,6 +157,7 @@ $ npm run deploy
 To fill the timeline with your story, we need to make copy of code and update the h3, h4 tags like this. Look what I change for content of the h3 tag and the h4 tag. I copied and change "Creative Director" to "UI Designer".
 
 ```javascript 
+{% raw %}
 function App() {
   return (
     <div className="App">
@@ -195,6 +198,7 @@ function App() {
     </div>
   );
 }
+{% endraw %}
 ```
 
 ## Pitfalls 
