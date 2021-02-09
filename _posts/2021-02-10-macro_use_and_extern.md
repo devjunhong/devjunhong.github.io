@@ -37,15 +37,3 @@ The attribute imports macros in the crates. For example, the above snippet means
 In a nutshell, it is equivalent to the "use" statement. It indicates that you want to link against an external library and brings the top-level crate name into scope. 
 
 [Answer from Stackoverflow](https://stackoverflow.com/a/29404692/5742992)
-
-# Updated 
-```rust
-#[macro_use]
-extern crate diesel;
-```
-
-If you are working under the recent version of Rust, then you don't have to follow the old custom. We can use the "use" statement to achieve both. For my environment, I use 1.48.0 and it does not have a problem. 
-
-```rust
-use diesel;
-```
