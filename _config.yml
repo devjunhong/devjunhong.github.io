@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Junhong Kim"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Warm-hearted Engineer loves; Python, Rust, React, and Pytorch."
+  bio              : "Python, Rust, React, and Pytorch."
   location         : "Seoul, South Korea"
   email            :
   links:

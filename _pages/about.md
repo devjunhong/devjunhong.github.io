@@ -15,7 +15,7 @@ header:
 
 ## What do I do for a living? 
 * Software Engineer and Machine Learning Engineer at [GenesisLab](http://www.genesislab.ai/#/)
-    * Apr. 2019. ~ Present. 
+    * Apr. 2019. ~ Jun. 2021. 
 * Software Engineer at [Milliman](http://kr.milliman.com/)
     * Jan. 2017. ~ Apr. 2019. 
 
