@@ -108,7 +108,7 @@ author:
   name             : "Junhong Kim"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Python, Rust, React, and Pytorch."
-  location         : "Seoul, South Korea"
+  location         : "London, United Kingdom"
   email            :
   links:
     - label: "Email"
