@@ -8,16 +8,21 @@ header:
   teaser: /assets/images/profile.jpeg
 ---
 
+*Last updates; May 7 2022*
+
 ## Summary 
+- 5+ years software engineer who enjoys problem solving; mainly work with Python but not limited. Language and frameworks are only my tools to convert business needs to an actual software products.  
 - [LinkedIn Profile](https://www.linkedin.com/in/devjunhong/)
 - [Portfolio](https://docs.google.com/presentation/d/e/2PACX-1vRXNou-qZr9Ooy_A_rUQeH64qKXPPu0W-E9x1-7uabjYQIwxy0iLMltVdBKVXNRNFrdQ4khyY4Yz-Sq/pub?start=false&loop=false&delayms=3000)
 - [Email](mailto:dev.junhong@gmail.com)
 
 ## What do I do for a living? 
+* Software Engineer at [ComplyAdvantage](https://complyadvantage.com/)
+  * Aug. 2021 ~ now
 * Software Engineer and Machine Learning Engineer at [GenesisLab](http://www.genesislab.ai/#/)
-    * Apr. 2019. ~ Jun. 2021. 
+  * Apr. 2019. ~ June. 2021. 
 * Software Engineer at [Milliman](http://kr.milliman.com/)
-    * Jan. 2017. ~ Apr. 2019. 
+  * Jan. 2017. ~ Apr. 2019. 
 
 If you want to know more then please click [here](https://www.linkedin.com/in/devjunhong/). 
 
